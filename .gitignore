@@ -1,0 +1,7 @@
+# Maven
+target/
+build/
+.git/
+.classpath
+.project
+.settings/
